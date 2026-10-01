@@ -93,7 +93,8 @@ export default function Footer() {
         <div className="mt-12 border-t border-white/10 pt-8 text-center text-xs leading-relaxed text-teal-100/50">
           <p>
             © 2026 SehatPlus. All rights reserved. Demo website — SehatPlus is
-            a fictional business created for demonstration purposes.
+            a fictional business created for demonstration purposes. Designed
+            &amp; built by <a href="https://akclnt.com" className="hover:text-white">AKCLNT</a>.
           </p>
         </div>
       </div>
